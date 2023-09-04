@@ -5,4 +5,4 @@
 |:------------- |:---------------:| :-------------|
 | [Выпускной проект](https://github.com/ruby-mari/yandex_da/blob/main/final_project.ipynb)         | **Анализ пользовательских сценариев в мобильном приложении**         | pandas, scipy.stats, matplotlib, plotly, seaborn        |
 | [Выпускной проект по анализу результатов А/В тестирования](https://github.com/ruby-mari/yandex_da/blob/main/final_ab.ipynb)        | **Анализ изменения пользовательского опыта при внедрении новой системы рекомендаций**         | pandas, scipy.stats, math      |
-|  [Выпускной проект по анализу результатов А/В тестирования](https://github.com/ruby-mari/yandex_da/blob/main/final_ab.ipynb)       | Cell 8          | Cell 9        |
+|  [Анализ рынка заведений общественного питания Москвы](https://github.com/ruby-mari/yandex_da/blob/main/project_5.ipynb )      | **Анализ расположения, рейтинга заведений разных типов, подбор района для отрытия новой кофейни**         | pandas,  matplotlib, plotly, seaborn, plotly, folium        |
