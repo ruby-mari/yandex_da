@@ -1,8 +1,8 @@
 # yandex_da
 Проекты, выполненные в рамках курса "Аналитик данных" от Яндекс.Практикум
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| Название+ссылка  | Суть проекта  | Используемые библиотеки |
 |:------------- |:---------------:| -------------:|
-| Row 1         | Cell 2          | Cell 3        |
+| [Выпускной проект]((https://github.com/ruby-mari/yandex_da/blob/main/final_project.ipynb))         | Cell 2          | Cell 3        |
 | Row 2         | Cell 5          | Cell 6        |
 | Row 3         | Cell 8          | Cell 9        |
